@@ -11,7 +11,7 @@ targets version 1.2.
 
 ## Current Limitations
 
-- Only support maps with the *Tile Layer Format* property set to **CSV**
+- Only supports maps with the *Tile Layer Format* property set to **CSV**
 - Only supports one JSON map format (currently v1.2)
 
 
