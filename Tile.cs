@@ -8,7 +8,7 @@ namespace Sharptile
         public Frame[] animation;
         public int id;
         public string image;
-        public int gimageheight;
+        public int imageheight;
         public int imagewidth;
         public Layer objectgroup;
         public Property[] properties;
